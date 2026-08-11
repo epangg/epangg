@@ -27,7 +27,7 @@
 🎮 Focus      : Tools, plugins, and scripting for SA-MP / MoonLoader / MonetLoader
 ```
 
-I'm a developer who enjoys building tools that make other people's workflow faster and easier. from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
+I'm a developer who enjoys building tools that make other people's workflow faster and easier, from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
 
 ---
 
