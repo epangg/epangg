@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**epangg/epangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Epang
 
-Here are some ideas to get you started:
+### Lua Developer • MonetLoader • Acode Plugin Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Lua Developer
+- 🎮 SA-MP / MonetLoader
+- 📱 Android & Termux
+- 🧩 Acode Plugin Developer
+
+## 🔥 Projects
+
+- [Lua SAMP Autocomplete](https://github.com/epangg/Acode-Lua-Samp-Auto-Complete)
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ❤️
+
+</div>
