@@ -28,7 +28,7 @@
 🎮 Focus      : Tools, plugins, and scripting for SA-MP / MoonLoader / MonetLoader
 ```
 
-I'm a developer who enjoys building tools that make other people's workflow faster and easier — from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
+I'm a developer who enjoys building tools that make other people's workflow faster and easier, from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
 
 ---
 
@@ -44,8 +44,11 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 ## 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=epangg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B30000&icon_color=B30000&text_color=FFFFFF" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=epangg&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epangg&layout=compact&hide_border=true&bg_color=0D1117&title_color=B30000&text_color=FFFFFF" width="60%"/></div>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=epangg&theme=github_dark" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=epangg&theme=dark&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/><br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epangg&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=epangg&theme=github_dark" width="48%"/></div>
 
 ---
 
