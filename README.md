@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=220&section=header&text=Hi,%20I'm%20Epang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://api.dicebear.com/9.x/bottts-neutral/png?seed=Epang&backgroundColor=b30000&size=160" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
+<img src="./profile.png" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
+
+<!-- 👆 Replace "profile.png" above with your own photo file (upload it to your repo, same folder as this README) -->
+<!-- Keep the filename or update the src path to match your uploaded photo -->
+
 
 <br><br>
 
@@ -27,7 +31,7 @@
 🎮 Focus      : Tools, plugins, and scripting for SA-MP / MoonLoader / MonetLoader
 ```
 
-I'm a developer who enjoys building tools that make other people's workflow faster and easier, from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
+I'm a developer who enjoys building tools that make other people's workflow faster and easier — from autocomplete plugins to scripting utilities. Always curious, always experimenting with new languages and stacks.
 
 ---
 
@@ -53,10 +57,10 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=epangg&show_icons=true&theme=red&hide_border=true&bg_color=0d1117&title_color=B30000&icon_color=B30000" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=epangg&theme=red&hide_border=true&background=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=epangg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B30000&icon_color=B30000&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=epangg&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epangg&layout=compact&theme=red&hide_border=true&bg_color=0d1117&title_color=B30000" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epangg&layout=compact&hide_border=true&bg_color=0D1117&title_color=B30000&text_color=FFFFFF" width="60%"/>
 
 </div>
 
