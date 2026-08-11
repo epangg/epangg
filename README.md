@@ -42,13 +42,13 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Developer Activity
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=epangg&theme=github_dark" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=epangg&theme=dark&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/><br><br>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epangg&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=epangg&theme=github_dark" width="48%"/></div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=epangg&bg_color=0D1117&color=FFFFFF&line=B30000&point=B30000&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
