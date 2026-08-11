@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=220&section=header&text=Hi,%20I'm%20Epang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="./profile.png" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
+<img src="https://ui-avatars.com/api/?name=Epang&size=200&background=B30000&color=fff&bold=true&rounded=true&font-size=0.45" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
 
-<!-- 👆 Replace "profile.png" above with your own photo file (upload it to your repo, same folder as this README) -->
-<!-- Keep the filename or update the src path to match your uploaded photo -->
+<!-- 👆 This is a placeholder avatar (initial "E" on red). To use your own photo: upload it to your repo (e.g. profile.png), then replace the src above with "./profile.png" -->
 
 
 <br><br>
@@ -39,15 +38,13 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-b30000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-b30000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-b30000?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pawn-b30000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-b30000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-b30000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-b30000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-b30000?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-b30000?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,ts,lua,py,css,mysql,nodejs,kotlin&theme=dark" alt="Tech Stack Icons"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pawn-b30000?style=for-the-badge&labelColor=111111" alt="Pawn">
+
+<!-- Note: Pawn doesn't have an official icon on skillicons.dev, so it stays as a text badge above -->
 
 </div>
 
