@@ -44,7 +44,7 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/epangg/Acode-Lua-Samp-Auto-Complete/main/banner.png?utm_source=chatgpt.com)
+![Banner](https://raw.githubusercontent.com/epangg/Acode-Lua-Samp-Auto-Complete/main/banner.png)
 
 </div>
 
