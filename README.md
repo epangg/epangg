@@ -42,11 +42,9 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 ---
 
-## ⚡ Developer Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=epangg&bg_color=0D1117&color=FFFFFF&line=B30000&point=B30000&area=true&hide_border=true" width="95%"/>
+![Banner](https://raw.githubusercontent.com/epangg/Acode-Lua-Samp-Auto-Complete/main/banner.png?utm_source=chatgpt.com)
 
 </div>
 
