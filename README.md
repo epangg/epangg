@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B30000&height=220&section=header&text=Hi,%20I'm%20Epang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://ui-avatars.com/api/?name=Epang&size=200&background=B30000&color=fff&bold=true&rounded=true&font-size=0.45" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
-
-<!-- 👆 This is a placeholder avatar (initial "E" on red). To use your own photo: upload it to your repo (e.g. profile.png), then replace the src above with "./profile.png" -->
+<img src="https://api.dicebear.com/9.x/bottts-neutral/png?seed=Epang&backgroundColor=b30000&size=160" width="140" style="border-radius:50%;" alt="Epang Avatar"/>
 
 
 <br><br>
@@ -40,26 +38,14 @@ I'm a developer who enjoys building tools that make other people's workflow fast
 
 <img src="https://skillicons.dev/icons?i=js,ts,lua,py,css,mysql,nodejs,kotlin&theme=dark" alt="Tech Stack Icons"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Pawn-b30000?style=for-the-badge&labelColor=111111" alt="Pawn">
-
-<!-- Note: Pawn doesn't have an official icon on skillicons.dev, so it stays as a text badge above -->
-
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=epangg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B30000&icon_color=B30000&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=epangg&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epangg&layout=compact&hide_border=true&bg_color=0D1117&title_color=B30000&text_color=FFFFFF" width="60%"/>
-
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=epangg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B30000&icon_color=B30000&text_color=FFFFFF" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=epangg&hide_border=true&background=0D1117&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=B30000&dates=FFFFFF&stroke=B30000" width="48%"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epangg&layout=compact&hide_border=true&bg_color=0D1117&title_color=B30000&text_color=FFFFFF" width="60%"/></div>
 
 ---
 
